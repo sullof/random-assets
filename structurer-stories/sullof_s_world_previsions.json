@@ -1,0 +1,576 @@
+{
+  "exportType": "structurer.story",
+  "schemaVersion": 3,
+  "uid": "DDbnUkrl",
+  "updatedAt": 1775486227399,
+  "title": "Sullof's world previsions",
+  "structureId": "altered_not_a_real_structure",
+  "structure": "No structure",
+  "phaseOrder": [
+    0,
+    6,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "phaseUids": [
+    "qYSFfUVQ",
+    "Nd7ufU1r",
+    "bcxXJ4rc",
+    "ao4wHgSe",
+    "SmkjnwgT",
+    "9sC6XLWy",
+    "3jKhLR0i"
+  ],
+  "phaseCommentsVersion": 2,
+  "phaseComments": {
+    "qYSFfUVQ": [],
+    "Nd7ufU1r": [],
+    "bcxXJ4rc": [],
+    "ao4wHgSe": [],
+    "SmkjnwgT": [],
+    "9sC6XLWy": [],
+    "3jKhLR0i": []
+  },
+  "noteTypes": [],
+  "archetypes": [],
+  "notes": [
+    {
+      "uid": "fbA01",
+      "updatedAt": 1775485227921,
+      "kind": "flashback",
+      "column": 0,
+      "order": 0,
+      "text": "1970s flashback: the petrodollar system is not just 'currency preference' but a political-security architecture - Gulf hydrocarbons priced in dollars in exchange for US military guarantees.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "fbA02",
+      "updatedAt": 1775485227921,
+      "kind": "flashback",
+      "column": 0,
+      "order": 1,
+      "text": "Post-Cold-War flashback: NATO expansion plus repeated US intervention patterns built the perception in Moscow that the security perimeter was being pushed eastward indefinitely.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "fbA03",
+      "updatedAt": 1775485227921,
+      "kind": "time",
+      "column": 0,
+      "order": 2,
+      "text": "2014-2025 chain: Crimea, sanctions cycles, war escalation in Ukraine, and widening Middle East conflict accumulate into a single systemic stress curve.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "fbA04",
+      "updatedAt": 1775485227921,
+      "kind": "topic",
+      "column": 0,
+      "order": 3,
+      "text": "Past premise: Europe enjoyed an energy-cost advantage from Russian gas while relying on US security umbrella - a dual dependency that becomes contradictory under sustained confrontation.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "ZxWihHrA",
+      "updatedAt": 1775485227921,
+      "kind": "plot",
+      "column": 0,
+      "order": 4,
+      "text": "Israel devastates Gaza and Lebanon, testing the international community's response.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "cag33VHQ",
+      "updatedAt": 1775485227921,
+      "kind": "plot",
+      "column": 0,
+      "order": 5,
+      "text": "Israel and the US launch a war against Iran.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "fbA05",
+      "updatedAt": 1775485227921,
+      "kind": "question",
+      "column": 0,
+      "order": 6,
+      "text": "If Washington knew that breaking Gulf stability would shock the global economy, was escalation accepted as collateral damage for a larger strategic reset?",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "rtB01",
+      "updatedAt": 1775545800000,
+      "kind": "time",
+      "column": 1,
+      "order": 0,
+      "text": "Right now: markets react as if multiple regional conflicts can merge into one macro-conflict through energy, shipping, and financial channels.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "rtB02",
+      "updatedAt": 1775484845352,
+      "kind": "topic",
+      "column": 1,
+      "order": 1,
+      "text": "Core thesis (worst-case): an Iran-centered conflict can become the trigger that weakens the dollar order, shrinks US imperial overhead, and reopens space for hard continental strategy.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 118,
+      "collapsed": false
+    },
+    {
+      "uid": "rtB03",
+      "updatedAt": 1775545800000,
+      "kind": "reference",
+      "column": 1,
+      "order": 2,
+      "text": "Hormuz relevance: a critical share of seaborne oil passes through the Strait; credible disruption threat alone can reprice risk globally.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "rtB04",
+      "updatedAt": 1775545800000,
+      "kind": "question",
+      "column": 1,
+      "order": 3,
+      "text": "MAGA contradiction question: how do you execute 'America-first retrenchment' while maintaining expensive NATO commitments and global base architecture?",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "rtB05",
+      "updatedAt": 1775484897557,
+      "kind": "theme",
+      "column": 1,
+      "order": 4,
+      "text": "Provocative answer: you do not reform the empire gradually - you let it crack under pressure, then rebuild power in a smaller, more controllable geographic core. A fast crack can allow the US to apply extraordinary measures, including occupying allied territories.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 100,
+      "collapsed": false
+    },
+    {
+      "uid": "ifC01",
+      "updatedAt": 1775484079763,
+      "kind": "time",
+      "column": 2,
+      "order": 0,
+      "text": "Immediate future (months): Gulf military pressure, insurance spikes, and shipping risk combine to produce a supply-cost shock before any formal macro-recession.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "Y4jbqgdx",
+      "updatedAt": 1775485790855,
+      "kind": "plot",
+      "column": 2,
+      "order": 1,
+      "text": "Israel continues to press Iran because its goal is to become the hegemonic power in the Middle East.\n\nTo do so, in this scenario, it must ensure that the US leaves the area. Iran shares that objective for opposite strategic reasons.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "ifC02",
+      "updatedAt": 1775484079763,
+      "kind": "topic",
+      "column": 2,
+      "order": 2,
+      "text": "Kharg logic in this scenario: if key Iranian export nodes are targeted or occupied, Tehran's response can focus on regional infrastructure denial, making everyone pay.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "ifC03",
+      "updatedAt": 1775484079763,
+      "kind": "topic",
+      "column": 2,
+      "order": 3,
+      "text": "Arab-US glue weakens once Gulf exporters lose volume and certainty: political willingness to defend dollar primacy falls when the rent from hydrocarbon flows shrinks.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "ifC04",
+      "updatedAt": 1775484079763,
+      "kind": "question",
+      "column": 2,
+      "order": 4,
+      "text": "Would Gulf actors diversify settlement currencies not out of ideology, but as pure risk management after a confidence break?",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "ifC05",
+      "updatedAt": 1775484079763,
+      "kind": "detail",
+      "column": 2,
+      "order": 5,
+      "text": "Qatar and Oman are modeled as potential exceptions with selective non-belligerence arrangements; this asymmetry matters because it redistributes regional leverage.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "rJfxugPw",
+      "updatedAt": 1775486011023,
+      "kind": "plot",
+      "column": 2,
+      "order": 6,
+      "text": "The US launches a ground invasion of Iran at high human cost.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "suD01",
+      "updatedAt": 1775484171080,
+      "kind": "time",
+      "column": 3,
+      "order": 0,
+      "text": "Summer 2026: NATO political coherence declines as burden-sharing disputes and strategic ambiguity over Ukraine intensify.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "suD02",
+      "updatedAt": 1775484171080,
+      "kind": "topic",
+      "column": 3,
+      "order": 1,
+      "text": "European trap: Russian gas politically blocked + Gulf risk rising = forced dependence on high-cost North American energy.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "suD03",
+      "updatedAt": 1775484171080,
+      "kind": "topic",
+      "column": 3,
+      "order": 2,
+      "text": "Greenland pressure is interpreted here as a signal move: control Arctic logistics and strategic geography while Europe is fragmented and reactive.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "5qYGSaaN",
+      "updatedAt": 1775484171080,
+      "kind": "plot",
+      "column": 3,
+      "order": 3,
+      "text": "The USA occupies Greenland before the mid-term election. Trump shows he can do it. The rest of the world complains but is unable to act.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "suD04",
+      "updatedAt": 1775484171080,
+      "kind": "question",
+      "column": 3,
+      "order": 4,
+      "text": "Can Europe pivot from moral signaling to hard industrial realism fast enough to avoid deindustrialization?",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "Ms6S7g41",
+      "updatedAt": 1775485950883,
+      "kind": "flashback",
+      "column": 3,
+      "order": 5,
+      "text": "Europe loses Greenland after helping hollow out international law by shielding Israeli crimes against Palestinians. When Europe becomes the victim, the rest of the world chooses not to intervene.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 83,
+      "collapsed": false
+    },
+    {
+      "uid": "faE01",
+      "updatedAt": 1775486085179,
+      "kind": "time",
+      "column": 4,
+      "order": 0,
+      "text": "Fall 2026: Western Hemisphere consolidation attempts become more explicit in policy language and military posture.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "faE02",
+      "updatedAt": 1775486085179,
+      "kind": "topic",
+      "column": 4,
+      "order": 1,
+      "text": "Venezuela is central in this scenario because it combines regime fragility, vast hydrocarbon reserves, and geostrategic position in northern South America.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "suD05",
+      "updatedAt": 1775486085179,
+      "kind": "milestone",
+      "column": 4,
+      "order": 2,
+      "text": "Milestone to watch: first major wave of industrial shutdown announcements in high-energy sectors (chemicals, metallurgy, heavy manufacturing).",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "faE05",
+      "updatedAt": 1775486085179,
+      "kind": "question",
+      "column": 4,
+      "order": 3,
+      "text": "Could a US-Russia pragmatic coexistence emerge not from trust, but from mutual transactional advantage while continental reshaping proceeds elsewhere?",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "hcWKJFZs",
+      "updatedAt": 1775486085179,
+      "kind": "plot",
+      "column": 4,
+      "order": 4,
+      "text": "Trump refuses to accept the election results when Democrats win, indefinitely delaying formal certification.\n\nIf that is not enough, he triggers a civil conflict by leveraging ICE and federal coercive power.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "nyF01",
+      "updatedAt": 1775486085179,
+      "kind": "time",
+      "column": 5,
+      "order": 0,
+      "text": "Next few years: global order fragments into hardened regional blocs with unstable borders between them.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "nyF04",
+      "updatedAt": 1775486085179,
+      "kind": "topic",
+      "column": 5,
+      "order": 1,
+      "text": "China short term: squeezed by energy-security turbulence and Russian leverage; long term: could recover through scale in batteries, solar, grids, and industrial policy.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "2HGi56Ql",
+      "updatedAt": 1775486128527,
+      "kind": "milestone",
+      "column": 5,
+      "order": 2,
+      "text": "Russian gas companies open to Western shareholders, such as BlackRock. The US pushes to reopen energy trade between Europe and Russia.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "faE03",
+      "updatedAt": 1775486085179,
+      "kind": "topic",
+      "column": 5,
+      "order": 3,
+      "text": "Canada pressure is modeled as energy-geography arithmetic: huge reserves, limited population, and potential strategic encirclement if Greenland alignment shifts.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "teG03",
+      "updatedAt": 1775486085179,
+      "kind": "topic",
+      "column": 5,
+      "order": 4,
+      "text": "Alternative branch remains open: pragmatic trade with China, and coordinated industrial policy.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 100,
+      "collapsed": false
+    },
+    {
+      "uid": "nyF03",
+      "updatedAt": 1775486183676,
+      "kind": "flashback",
+      "column": 5,
+      "order": 5,
+      "text": "Brazil-Venezuela tension channel: Lula's veto against Venezuela's BRICS accession is read here as partly linked to the Essequibo/Guyana dispute and Brazil's energy-security calculations.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 118,
+      "collapsed": false
+    },
+    {
+      "uid": "x6q31Cgh",
+      "updatedAt": 1775486085179,
+      "kind": "flashback",
+      "column": 5,
+      "order": 6,
+      "text": "South America's regional integration repeatedly failed to sustain a durable defense-energy compact, leaving states exposed to extra-regional pressure.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "nyF05",
+      "updatedAt": 1775486085179,
+      "kind": "question",
+      "column": 5,
+      "order": 7,
+      "text": "Can Latin America avoid becoming a corridor of proxy competition, or does commodity dependence force fragmented bilateral deals under pressure?",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "S0QMtgz0",
+      "updatedAt": 1775486227399,
+      "kind": "plot",
+      "column": 5,
+      "order": 8,
+      "text": "The US takes Canada. Again, the world is unable to act. Canada's geographic encirclement makes intervention extremely difficult.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 83,
+      "collapsed": false
+    },
+    {
+      "uid": "teG01",
+      "updatedAt": 1775484535363,
+      "kind": "time",
+      "column": 6,
+      "order": 0,
+      "text": "Ten-year horizon: the likely winners in this worst-case model are actors with secure energy, continental depth, and coercive financial capacity.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "teG02",
+      "updatedAt": 1775484535363,
+      "kind": "topic",
+      "column": 6,
+      "order": 1,
+      "text": "Europe's worst-case endpoint is prolonged industrial downgrade: high input costs, capital flight, political fragmentation, and structurally lower growth.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "teG04",
+      "updatedAt": 1775484535363,
+      "kind": "reference",
+      "column": 6,
+      "order": 2,
+      "text": "Historical warning reference: systemic energy and debt shocks can trigger political-economic outcomes that look impossible until they become unavoidable.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "uXKYsj4H",
+      "updatedAt": 1775484535363,
+      "kind": "plot",
+      "column": 6,
+      "order": 3,
+      "text": "The US consolidates its regional bloc by trying to absorb or control Mexico, Colombia, Guyana, and other weak but strategic countries in the area.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "teG05",
+      "updatedAt": 1775484535363,
+      "kind": "milestone",
+      "column": 6,
+      "order": 4,
+      "text": "Final checkpoint: this board is a worst-scenario hypothesis intended to be stress-tested against reality over the next decade, not a deterministic forecast.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    },
+    {
+      "uid": "PXwhX88a",
+      "updatedAt": 1775484535363,
+      "kind": "theme",
+      "column": 6,
+      "order": 5,
+      "text": "The Middle East fractures. Israel becomes a 'Greater Israel,' expanding from east of the Nile to west of the Euphrates. Qatar, Yemen, and Oman align with Iran; most other states align with Israel.",
+      "characterName": "",
+      "archetype": "none",
+      "collapsed": false
+    }
+  ],
+  "alteredStructure": {
+    "name": "No structure",
+    "phases": [
+      {
+        "title": "The past",
+        "description": "A recap of what happened before starting this story"
+      },
+      {
+        "title": "The immediate future"
+      },
+      {
+        "title": "Summer 2026"
+      },
+      {
+        "title": "Fall 2026"
+      },
+      {
+        "title": "Next few years"
+      },
+      {
+        "title": "Scenario in ten years"
+      },
+      {
+        "title": "Right now"
+      }
+    ],
+    "updatedAt": 1775484601075
+  }
+}
