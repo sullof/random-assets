@@ -2,7 +2,7 @@
   "exportType": "structurer.story",
   "schemaVersion": 3,
   "uid": "DDbnUkrl",
-  "updatedAt": 1775566900226,
+  "updatedAt": 1775573211821,
   "title": "Sullof's world previsions",
   "structureId": "altered_no_structure",
   "structure": "No structure",
@@ -324,8 +324,20 @@
       "collapsed": false
     },
     {
+      "uid": "5TmhYYz0",
+      "updatedAt": 1775573004180,
+      "kind": "question",
+      "column": 4,
+      "order": 6,
+      "text": "The US is preparing to create a naval blockade around the world: the Panama Canal, the Arctic Ocean, the Strait of Hormuz (indirectly), and the Strait of Malacca. Will Russia militarize its ship to fight the US?",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 74,
+      "collapsed": false
+    },
+    {
       "uid": "faE01",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775573092511,
       "kind": "time",
       "column": 5,
       "order": 0,
@@ -336,7 +348,7 @@
     },
     {
       "uid": "faE02",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775573092511,
       "kind": "topic",
       "column": 5,
       "order": 1,
@@ -347,7 +359,7 @@
     },
     {
       "uid": "suD05",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775573092511,
       "kind": "milestone",
       "column": 5,
       "order": 2,
@@ -357,26 +369,39 @@
       "collapsed": false
     },
     {
-      "uid": "faE05",
-      "updatedAt": 1775566518611,
-      "kind": "question",
-      "column": 5,
-      "order": 3,
-      "text": "Could a US-Russia pragmatic coexistence emerge not from trust, but from mutual transactional advantage while continental reshaping proceeds elsewhere?",
-      "characterName": "",
-      "archetype": "none",
-      "collapsed": false
-    },
-    {
       "uid": "hcWKJFZs",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775573092511,
       "kind": "plot",
       "column": 5,
-      "order": 4,
+      "order": 3,
       "text": "Trump refuses to accept the election results when Democrats win, indefinitely delaying formal certification.\n\nIf that is not enough, he triggers a civil conflict by leveraging ICE and federal coercive power.",
       "characterName": "",
       "archetype": "none",
       "customHeight": 74,
+      "collapsed": false
+    },
+    {
+      "uid": "faE05",
+      "updatedAt": 1775573092511,
+      "kind": "question",
+      "column": 5,
+      "order": 4,
+      "text": "Will Europe realize how dangerous the situation is and move on the side of the rest of the world to oppose Israeli and US wars?",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 136,
+      "collapsed": false
+    },
+    {
+      "uid": "KLEzQebx",
+      "updatedAt": 1775573211821,
+      "kind": "theme",
+      "column": 5,
+      "order": 5,
+      "text": "Food scarcity becomes an urgent issue, pushing many countries, mostly in Africa and Southeast Asia, to the brink of famine.",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 83,
       "collapsed": false
     },
     {
