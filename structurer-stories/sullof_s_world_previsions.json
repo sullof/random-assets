@@ -2,8 +2,8 @@
   "exportType": "structurer.story",
   "schemaVersion": 3,
   "uid": "DDbnUkrl",
-  "updatedAt": 1775573211821,
-  "title": "Sullof's world previsions",
+  "updatedAt": 1775651055771,
+  "title": "Sullof's world predictions",
   "structureId": "altered_no_structure",
   "structure": "No structure",
   "phaseOrder": [
@@ -258,7 +258,7 @@
     },
     {
       "uid": "suD01",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775650758676,
       "kind": "time",
       "column": 4,
       "order": 0,
@@ -269,7 +269,7 @@
     },
     {
       "uid": "suD02",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775650758676,
       "kind": "topic",
       "column": 4,
       "order": 1,
@@ -280,7 +280,7 @@
     },
     {
       "uid": "suD03",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775650758676,
       "kind": "topic",
       "column": 4,
       "order": 2,
@@ -291,7 +291,7 @@
     },
     {
       "uid": "5qYGSaaN",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775650758676,
       "kind": "plot",
       "column": 4,
       "order": 3,
@@ -302,7 +302,7 @@
     },
     {
       "uid": "suD04",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775650758676,
       "kind": "question",
       "column": 4,
       "order": 4,
@@ -313,7 +313,7 @@
     },
     {
       "uid": "Ms6S7g41",
-      "updatedAt": 1775566518611,
+      "updatedAt": 1775650758676,
       "kind": "flashback",
       "column": 4,
       "order": 5,
@@ -324,20 +324,8 @@
       "collapsed": false
     },
     {
-      "uid": "5TmhYYz0",
-      "updatedAt": 1775573004180,
-      "kind": "question",
-      "column": 4,
-      "order": 6,
-      "text": "The US is preparing to create a naval blockade around the world: the Panama Canal, the Arctic Ocean, the Strait of Hormuz (indirectly), and the Strait of Malacca. Will Russia militarize its ship to fight the US?",
-      "characterName": "",
-      "archetype": "none",
-      "customHeight": 74,
-      "collapsed": false
-    },
-    {
       "uid": "faE01",
-      "updatedAt": 1775573092511,
+      "updatedAt": 1775650758676,
       "kind": "time",
       "column": 5,
       "order": 0,
@@ -348,7 +336,7 @@
     },
     {
       "uid": "faE02",
-      "updatedAt": 1775573092511,
+      "updatedAt": 1775650758676,
       "kind": "topic",
       "column": 5,
       "order": 1,
@@ -359,7 +347,7 @@
     },
     {
       "uid": "suD05",
-      "updatedAt": 1775573092511,
+      "updatedAt": 1775650758676,
       "kind": "milestone",
       "column": 5,
       "order": 2,
@@ -370,7 +358,7 @@
     },
     {
       "uid": "hcWKJFZs",
-      "updatedAt": 1775573092511,
+      "updatedAt": 1775650758676,
       "kind": "plot",
       "column": 5,
       "order": 3,
@@ -382,7 +370,7 @@
     },
     {
       "uid": "faE05",
-      "updatedAt": 1775573092511,
+      "updatedAt": 1775650758676,
       "kind": "question",
       "column": 5,
       "order": 4,
@@ -394,7 +382,7 @@
     },
     {
       "uid": "KLEzQebx",
-      "updatedAt": 1775573211821,
+      "updatedAt": 1775650758676,
       "kind": "theme",
       "column": 5,
       "order": 5,
@@ -402,6 +390,18 @@
       "characterName": "",
       "archetype": "none",
       "customHeight": 83,
+      "collapsed": false
+    },
+    {
+      "uid": "5TmhYYz0",
+      "updatedAt": 1775650825620,
+      "kind": "question",
+      "column": 5,
+      "order": 6,
+      "text": "The US sets a naval blockade around the world: the Panama Canal, the Arctic Ocean, and the Strait of Malacca, directly, and the Red Sea and the Strait of Hormuz, indirectly. Will the Russian military start escorting commercial ships to enforce the US's blockade? ",
+      "characterName": "",
+      "archetype": "none",
+      "customHeight": 230,
       "collapsed": false
     },
     {
@@ -613,7 +613,15 @@
     "ao4wHgSe": [],
     "SmkjnwgT": [],
     "9sC6XLWy": [],
-    "3jKhLR0i": [],
+    "3jKhLR0i": [
+      {
+        "id": 1,
+        "uid": "toWSlGcj",
+        "text": "The ceasefire announced on April 8th is proof that the US is unable to win and needs time to reorganize itself, resupply the army, etc. The 12-point set by the Americans conflicts with all the 15-point sets by the Iranians. An agreement is very hard to reach. As soon as Israel and the US feel recharged, they will restart the hostility.",
+        "createdAt": 1775651055770,
+        "updatedAt": 1775651055770
+      }
+    ],
     "AzntxoIe": []
   }
 }
